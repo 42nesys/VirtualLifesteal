@@ -1,0 +1,6 @@
+name: Lifesteal
+version: '1.0'
+main: pashmash.lifesteal.Lifesteal
+api-version: '1.21'
+commands:
+  lifesteal:
